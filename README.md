@@ -356,9 +356,10 @@ This project is licensed under the MIT License.
 
 ---
 
-# 👨‍💻 Author
+# 👨‍💻 Authors
 
-**Muhammed Shiyas M**
+- **Muhammed Shiyas M**
+- **Naseef Rahman Asharaf**
 
 GitHub: https://github.com/MUHAMMED-SHIYAS-M
 
